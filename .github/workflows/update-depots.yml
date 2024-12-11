@@ -24,8 +24,11 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run crontab.py
-      run: |
-        python crontab.py
+      uses: nick-fields/retry@v3
+      with:
+        timeout-minutes: 5
+        max-attempts: 3
+        command: python crontab.py
 
     - name: Push to built branch
       uses: Automattic/action-commit-to-branch@master
