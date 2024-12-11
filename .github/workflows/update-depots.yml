@@ -26,8 +26,8 @@ jobs:
     - name: Run crontab.py
       uses: nick-fields/retry@v3
       with:
-        timeout-minutes: 5
-        max-attempts: 3
+        timeout_minutes: 5
+        max_attempts: 3
         command: python crontab.py
 
     - name: Push to built branch
