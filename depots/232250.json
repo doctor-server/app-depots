@@ -2,19 +2,19 @@
     "232250": {
         "manifests": {
             "public": {
-                "gid": "7543577613575685929",
-                "size": "13536097442",
-                "download": "8897084496"
+                "gid": "4441021504647620161",
+                "size": "13536797734",
+                "download": "8897376000"
             },
             "prerelease": {
-                "gid": "7543577613575685929",
-                "size": "13536097442",
-                "download": "8897084496"
+                "gid": "4441021504647620161",
+                "size": "13536797734",
+                "download": "8897376000"
             },
             "valve_ds": {
-                "gid": "7543577613575685929",
-                "size": "13536097442",
-                "download": "8897084496"
+                "gid": "4441021504647620161",
+                "size": "13536797734",
+                "download": "8897376000"
             }
         }
     },
@@ -87,17 +87,17 @@
     "overridescddb": "1",
     "branches": {
         "public": {
-            "buildid": "16807580",
-            "timeupdated": "1734654549"
+            "buildid": "16844707",
+            "timeupdated": "1735068126"
         },
         "prerelease": {
-            "buildid": "16807580",
-            "timeupdated": "1734654542"
+            "buildid": "16844707",
+            "timeupdated": "1735068118"
         },
         "valve_ds": {
-            "buildid": "16807580",
+            "buildid": "16844707",
             "description": "The version Valve dedicated servers will sync to",
-            "timeupdated": "1734654477"
+            "timeupdated": "1735068079"
         }
     }
 }
