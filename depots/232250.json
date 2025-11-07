@@ -99,5 +99,6 @@
             "description": "The version Valve dedicated servers will sync to",
             "timeupdated": "1761868352"
         }
-    }
+    },
+    "privatebranches": "1"
 }
