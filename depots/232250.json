@@ -17,9 +17,9 @@
                 "download": "10208357808"
             },
             "valve_ds": {
-                "gid": "2215851461590879568",
-                "size": "15111382069",
-                "download": "10208357808"
+                "gid": "8052170198428647397",
+                "size": "15112524200",
+                "download": "10209565584"
             }
         }
     },
@@ -120,9 +120,9 @@
             "timeupdated": "1765309608"
         },
         "valve_ds": {
-            "buildid": "21119474",
+            "buildid": "21154155",
             "description": "The version Valve dedicated servers will sync to",
-            "timeupdated": "1765309553"
+            "timeupdated": "1765496575"
         }
     }
 }
