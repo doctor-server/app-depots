@@ -1362,96 +1362,115 @@
     "branches": {
         "public": {
             "buildid": "22266770",
-            "timeupdated": "1773086341"
+            "timeupdated": "1773086341",
+            "timebuildupdated": "1773081318"
         },
         "csgo_legacy": {
             "buildid": "12426195",
             "description": "Legacy Version of CS:GO",
-            "timeupdated": "1697161396"
+            "timeupdated": "1697161396",
+            "timebuildupdated": "1697130801"
         },
         "demo_viewer": {
             "buildid": "35423",
-            "description": "for pre 2013/1/9 demos"
+            "description": "for pre 2013/1/9 demos",
+            "timebuildupdated": "1357785958"
         },
         "1.40.8.8": {
             "buildid": "19251152",
             "description": "Game version 1.40.8.8 (16-Jul-2025)",
-            "timeupdated": "1759176255"
+            "timeupdated": "1759176255",
+            "timebuildupdated": "1752701950"
         },
         "1.41.2.1": {
             "buildid": "20670159",
             "description": "1.41.2.1",
-            "timeupdated": "1762989925"
+            "timeupdated": "1762989925",
+            "timebuildupdated": "1762292365"
         },
         "1.41.2.6": {
             "buildid": "20865201",
             "description": "1.41.2.6",
-            "timeupdated": "1763603722"
+            "timeupdated": "1763603722",
+            "timebuildupdated": "1763587011"
         },
         "1.41.2.7": {
             "buildid": "21106099",
             "description": "1.41.2.7",
-            "timeupdated": "1765237367"
+            "timeupdated": "1765237367",
+            "timebuildupdated": "1765236357"
         },
         "1.41.2.8": {
             "buildid": "21121792",
             "description": "1.41.2.8",
-            "timeupdated": "1765320933"
+            "timeupdated": "1765320933",
+            "timebuildupdated": "1765318657"
         },
         "1.41.2.9": {
             "buildid": "21529689",
             "description": " Game version 1.41.2.9 (19-Jan-2026)",
-            "timeupdated": "1768867249"
+            "timeupdated": "1768867249",
+            "timebuildupdated": "1768586957"
         },
         "1.41.3.0": {
             "buildid": "21593048",
             "description": "1.41.3.0",
-            "timeupdated": "1769037099"
+            "timeupdated": "1769037099",
+            "timebuildupdated": "1769035747"
         },
         "1.41.3.1": {
             "buildid": "21595680",
             "description": "1.41.3.1",
-            "timeupdated": "1769051372"
+            "timeupdated": "1769051372",
+            "timebuildupdated": "1769050067"
         },
         "1.41.3.2": {
             "buildid": "21626952",
             "description": "1.41.3.2",
-            "timeupdated": "1769215469"
+            "timeupdated": "1769215469",
+            "timebuildupdated": "1769214713"
         },
         "1.41.3.3": {
             "buildid": "21669343",
             "description": "1.41.3.3",
-            "timeupdated": "1769534998"
+            "timeupdated": "1769534998",
+            "timebuildupdated": "1769534147"
         },
         "1.41.3.4": {
             "buildid": "21708006",
             "description": "1.41.3.4",
-            "timeupdated": "1769732303"
+            "timeupdated": "1769732303",
+            "timebuildupdated": "1769731052"
         },
         "1.41.3.5": {
             "buildid": "21868850",
             "description": "1.41.3.5",
-            "timeupdated": "1770747446"
+            "timeupdated": "1770747446",
+            "timebuildupdated": "1770738994"
         },
         "1.41.3.6": {
             "buildid": "22063930",
             "description": "1.41.3.6",
-            "timeupdated": "1771890053"
+            "timeupdated": "1771890053",
+            "timebuildupdated": "1771888720"
         },
         "1.41.3.7": {
             "buildid": "22099296",
             "description": "1.41.3.7",
-            "timeupdated": "1772745238"
+            "timeupdated": "1772745238",
+            "timebuildupdated": "1772056902"
         },
         "1.41.3.8": {
             "buildid": "22266770",
             "description": "1.41.3.8",
-            "timeupdated": "1773086401"
+            "timeupdated": "1773086401",
+            "timebuildupdated": "1773081318"
         },
         "csgo": {
             "buildid": "12426195",
             "description": "Counter-Strike: Global Offensive",
-            "timeupdated": "1755201816"
+            "timeupdated": "1755201816",
+            "timebuildupdated": "1697130801"
         }
     },
     "privatebranches": "1",

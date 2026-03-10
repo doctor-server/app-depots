@@ -108,21 +108,25 @@
     "branches": {
         "public": {
             "buildid": "22223889",
-            "timeupdated": "1772820374"
+            "timeupdated": "1772820374",
+            "timebuildupdated": "1772768359"
         },
         "double-physics-test": {
             "buildid": "20717414",
             "description": "Not compatible with public version",
-            "timeupdated": "1762557989"
+            "timeupdated": "1762557989",
+            "timebuildupdated": "1762557607"
         },
         "prerelease": {
             "buildid": "22223889",
-            "timeupdated": "1772820364"
+            "timeupdated": "1772820364",
+            "timebuildupdated": "1772768359"
         },
         "valve_ds": {
             "buildid": "22223889",
             "description": "The version Valve dedicated servers will sync to",
-            "timeupdated": "1772820324"
+            "timeupdated": "1772820324",
+            "timebuildupdated": "1772768359"
         }
     }
 }
