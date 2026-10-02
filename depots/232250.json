@@ -2,9 +2,9 @@
     "232250": {
         "manifests": {
             "public": {
-                "gid": "1098751674405974478",
-                "size": "15045405457",
-                "download": "10579977872"
+                "gid": "5142403530216647702",
+                "size": "15045597629",
+                "download": "10580212896"
             },
             "double-physics-test": {
                 "gid": "7293141821359455619",
@@ -12,14 +12,14 @@
                 "download": "9768072080"
             },
             "prerelease": {
-                "gid": "1098751674405974478",
-                "size": "15045405457",
-                "download": "10579977872"
+                "gid": "5142403530216647702",
+                "size": "15045597629",
+                "download": "10580212896"
             },
             "valve_ds": {
-                "gid": "1098751674405974478",
-                "size": "15045405457",
-                "download": "10579977872"
+                "gid": "5142403530216647702",
+                "size": "15045597629",
+                "download": "10580212896"
             }
         }
     },
@@ -107,9 +107,9 @@
     "overridescddb": "1",
     "branches": {
         "public": {
-            "buildid": "25660215",
-            "timeupdated": "1790888601",
-            "timebuildupdated": "1790879986"
+            "buildid": "25687505",
+            "timeupdated": "1790979744",
+            "timebuildupdated": "1790979241"
         },
         "double-physics-test": {
             "buildid": "20717414",
@@ -118,15 +118,15 @@
             "timebuildupdated": "1762557607"
         },
         "prerelease": {
-            "buildid": "25660215",
-            "timeupdated": "1790888592",
-            "timebuildupdated": "1790879986"
+            "buildid": "25687505",
+            "timeupdated": "1790979737",
+            "timebuildupdated": "1790979241"
         },
         "valve_ds": {
-            "buildid": "25660215",
+            "buildid": "25687505",
             "description": "The version Valve dedicated servers will sync to",
-            "timeupdated": "1790888559",
-            "timebuildupdated": "1790879986"
+            "timeupdated": "1790979698",
+            "timebuildupdated": "1790979241"
         }
     }
 }
