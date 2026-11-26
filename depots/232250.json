@@ -2,7 +2,7 @@
     "232250": {
         "manifests": {
             "public": {
-                "gid": "1371373623105169781",
+                "gid": "6207180917109118143",
                 "size": "14157524170",
                 "download": "10551656496"
             },
@@ -12,12 +12,12 @@
                 "download": "9768072080"
             },
             "prerelease": {
-                "gid": "1371373623105169781",
+                "gid": "6207180917109118143",
                 "size": "14157524170",
                 "download": "10551656496"
             },
             "valve_ds": {
-                "gid": "1371373623105169781",
+                "gid": "6207180917109118143",
                 "size": "14157524170",
                 "download": "10551656496"
             }
@@ -29,9 +29,9 @@
         },
         "manifests": {
             "public": {
-                "gid": "2867506448320183738",
+                "gid": "3496122770118599331",
                 "size": "269987253",
-                "download": "100529904"
+                "download": "100529920"
             },
             "double-physics-test": {
                 "gid": "1097700401760448874",
@@ -39,14 +39,14 @@
                 "download": "98988992"
             },
             "prerelease": {
-                "gid": "2867506448320183738",
+                "gid": "3496122770118599331",
                 "size": "269987253",
-                "download": "100529904"
+                "download": "100529920"
             },
             "valve_ds": {
-                "gid": "2867506448320183738",
+                "gid": "3496122770118599331",
                 "size": "269987253",
-                "download": "100529904"
+                "download": "100529920"
             }
         }
     },
@@ -56,7 +56,7 @@
         },
         "manifests": {
             "public": {
-                "gid": "7636950751847614490",
+                "gid": "8980115373049124531",
                 "size": "173410419",
                 "download": "52478576"
             },
@@ -66,12 +66,12 @@
                 "download": "45953728"
             },
             "prerelease": {
-                "gid": "7636950751847614490",
+                "gid": "8980115373049124531",
                 "size": "173410419",
                 "download": "52478576"
             },
             "valve_ds": {
-                "gid": "7636950751847614490",
+                "gid": "8980115373049124531",
                 "size": "173410419",
                 "download": "52478576"
             }
@@ -107,9 +107,9 @@
     "overridescddb": "1",
     "branches": {
         "public": {
-            "buildid": "26936243",
-            "timeupdated": "1795658197",
-            "timebuildupdated": "1795656888"
+            "buildid": "26937503",
+            "timeupdated": "1795661652",
+            "timebuildupdated": "1795661374"
         },
         "double-physics-test": {
             "buildid": "20717414",
@@ -118,15 +118,15 @@
             "timebuildupdated": "1762557607"
         },
         "prerelease": {
-            "buildid": "26936243",
-            "timeupdated": "1795658197",
-            "timebuildupdated": "1795656888"
+            "buildid": "26937503",
+            "timeupdated": "1795661645",
+            "timebuildupdated": "1795661374"
         },
         "valve_ds": {
-            "buildid": "26936243",
+            "buildid": "26937503",
             "description": "The version Valve dedicated servers will sync to",
-            "timeupdated": "1795658168",
-            "timebuildupdated": "1795656888"
+            "timeupdated": "1795661620",
+            "timebuildupdated": "1795661374"
         }
     }
 }
